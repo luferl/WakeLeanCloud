@@ -40,4 +40,3 @@ jobs:
         git config --global user.name AutoWakeUp
         git add .
         git commit -m "Successfully Wake" -a
-    - name: Push changes
